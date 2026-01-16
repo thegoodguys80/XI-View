@@ -1,0 +1,19 @@
+# XI-View SHA-256 Checksums
+# Generated: January 16, 2026
+# Verify download integrity with: shasum -a 256 -c CHECKSUMS.txt
+
+250f6fb677e847c08ed3b36e94e6179bb0873eb84f895059383cfb353a6c8344  README.md
+462523a7d95d7f6f6648dcc44691f5431a41d9b87393533522a455df8dd8ecd6  XI View How To.mp4
+4b403d55da1b21af5d548df69d68b99929800746cc56ea57819374dd06f0ee66  LICENSE
+
+# IMPORTANT: Verify these checksums match before installing!
+# If checksums don't match, do NOT install - download may be corrupted or tampered.
+# 
+# To verify on macOS/Linux:
+#   shasum -a 256 -c CHECKSUMS.txt
+# 
+# To verify on Windows (PowerShell):
+#   Get-FileHash -Algorithm SHA256 README.md
+#   Compare with checksum above
+#
+# For complete ROM folder checksums, see: https://github.com/thegoodguys80/XI-View/releases
